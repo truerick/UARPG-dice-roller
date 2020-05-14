@@ -39,6 +39,9 @@ Do you want to impress the girl with a flying kick and roll 89 on your 65 kung-f
 There is a lot of skills and possibilities in UA, so the skill field is free. But remember: if you're rolling your favorite skill (or any skill but in particular situations) you can flip-flop the result and a awful 91 will become the 19 you need to succeed!
 
 # Commands
-`!roll [String (*)skill] [Integer skill_level]`
-Roll 1d100 for the `skill` and check the level of success.
+`!roll [String (*)skill] [Integer skill_level (optional)]`
+Roll 1d100 for the `skill` and, if you want to write it already check the level of success.
 If the skill starts with a `*`, it means it's your favorite one and the system will try to flip-flop that to obtain the best result available!
+
+`!1d10 [String event (optional)]`
+Sometimes you just need to roll 1d10 for some events, so here you are! 
