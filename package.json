@@ -1,0 +1,11 @@
+{
+	"name": "UA-diceroller",
+	"version": "1.0.0",
+	"description": "A simple dice roller for Unknown Armies RPG v3",
+	"main": "bot.js",
+	"author": "Truerick",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
