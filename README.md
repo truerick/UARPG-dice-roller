@@ -8,6 +8,9 @@ You need the following node installations:
 `npm install discord.io winston –save`
 `npm install https://github.com/woor/discord.io/tarball/gateway_v6`
 
+## Launch bot
+Simply type and execute `node bot.js` from the repository folder
+
 # Level of success in Unknown Armies
 In UA to perform an action you have to roll 1d100 and check the result with your skill level (that goes from 1 to 100). If the roll is lower or equal your skill, it's a success. If it's higher it's a failure. There are different types of successes and failures.
 
