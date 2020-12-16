@@ -113,7 +113,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 			var message = user + " rolled " + roll;
 
 			// In case of additional information, I write it down
-			if (skill == undefined || skill == '') {
+			if (skill != undefined && skill != '') {
 				message += ' for ' + skill;
 			}
 
